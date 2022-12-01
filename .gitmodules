@@ -1,0 +1,3 @@
+[submodule "day1-rust"]
+	path = day1-rust
+	url = .\\day1-rust\\
